@@ -25,7 +25,7 @@ SECRET_KEY = '9ld(3a($*6e+9_*^z0kerjgie(h-d#$#7+ktef-su3_$ekdbkw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<bsandra>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'bsandra.pythonanywhere.com']
 
 
 # Application definition
